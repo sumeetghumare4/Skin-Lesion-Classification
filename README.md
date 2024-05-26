@@ -15,22 +15,13 @@ Install the required Python packages using `pip`:
 
 
 ### 2. Run the Project using Streamlit
-streamlit run app.py
-
-Skin-Lesion-Classification/
-│
-├── app.py                  # Main Streamlit application
-├── data/                   # Directory for storing dataset files
-├── models/                 # Directory for storing machine learning models
-├── requirements.txt        # Python dependencies
-├── README.md               # This README file
-└── ...                     # Other files and directories
+`streamlit run app.py`
 
 
 
-### Notes
+### Note
 
-- Ensure that your `requirements.txt` file includes all the necessary dependencies for your project.
+- Ensure that your `jupyter notebook` file includes all the necessary dependencies for your project.
 - Adjust the project structure section if your project has a different layout.
 
 This `README.md` file provides the essential instructions to set up and run your Streamlit project.
